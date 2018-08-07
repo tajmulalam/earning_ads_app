@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "783571800922",
+    "firebase_url": "https://hotmoney-7b6b3.firebaseio.com",
+    "project_id": "hotmoney-7b6b3",
+    "storage_bucket": "hotmoney-7b6b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783571800922:android:3be8a9211dcfa9b4",
+        "android_client_info": {
+          "package_name": "mannu420.com.hotpaisa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783571800922-tkqlb7qm437ab2eeeptc43ihk690l2t7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mannu420.com.hotpaisa",
+            "certificate_hash": "18ad46ab088119c3b5f00c51a3a0702b1a56841b"
+          }
+        },
+        {
+          "client_id": "783571800922-jrrdhrodcep6s2smrhvp631d8lbvbra5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJrn1CvpJvyIhPLS0NaJc_AQJZ6rRN8n0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783571800922-jrrdhrodcep6s2smrhvp631d8lbvbra5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
